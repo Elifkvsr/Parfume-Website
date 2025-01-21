@@ -1,1 +1,1 @@
-tailwindcss-elifkvsr-parfume-website.netlify.app
+ https://tailwindcss-elifkvsr-parfume-website.netlify.app
